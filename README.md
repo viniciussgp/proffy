@@ -1,6 +1,6 @@
 # Proffy
 
-<img align="right" src="web/src/assets/images/landing.svg?raw=true" width="35%" alt="Proffy">
+<img align="right" src="docs/screenshots/landing.svg?raw=true" width="35%" alt="Proffy">
 
 ## Tópicos 
 
@@ -21,7 +21,7 @@ O Proffy é uma plataforma feita para conectar alunos e professores, desenvolvid
 <br>
 
 <p align="center">
-  <img src="web/src/assets/images/mockup.png" alt="Página inicial Proffy">
+  <img src="docs/screenshots/mockup.png" alt="Página inicial Proffy">
 </p>
 
 ## Tecnologias
