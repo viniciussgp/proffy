@@ -1,6 +1,6 @@
 # Proffy
 
-<img align="right" src="docs/screenshots/landing.svg?raw=true" width="35%" alt="Proffy">
+<img align="right" src="web/src/assets/images/landing.svg?raw=true" width="35%" alt="Proffy">
 
 ## Tópicos 
 
